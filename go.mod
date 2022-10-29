@@ -1,4 +1,4 @@
-module github.com/wongkaew4/db
+module github.com/wongkaew4/courseGolang
 
 go 1.19
 
